@@ -55,9 +55,8 @@ from interval_tree import display
 display(tree)
 ```
 
-This will open a window with the graphical representation of the interval tree:
+This will open a window with the graphical representation of the interval tree.
 
-![Interval Tree Graphical Display](https://i.imgur.com/RQUtX9g.png)
 
 The red lines represent the intervals in the tree, and the black lines represent the boundaries of the nodes.
 
